@@ -1,0 +1,14 @@
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\bin\Debug\net7.0\Example001.exe
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\bin\Debug\net7.0\Example001.deps.json
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\bin\Debug\net7.0\Example001.runtimeconfig.json
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\bin\Debug\net7.0\Example001.dll
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\bin\Debug\net7.0\Example001.pdb
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.AssemblyInfoInputs.cache
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.AssemblyInfo.cs
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.csproj.CoreCompileInputs.cache
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.dll
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\refint\Example001.dll
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.pdb
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\Example001.genruntimeconfig.cache
+E:\Данилка\Разработчик Курс\Введение в С# Лекция\Example001\obj\Debug\net7.0\ref\Example001.dll
